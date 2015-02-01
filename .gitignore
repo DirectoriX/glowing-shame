@@ -184,3 +184,4 @@ FakesAssemblies/
 
 ## SDL2 libs and headers will be inluded, 
 !/SDL2*/**
+/Test.cpp
